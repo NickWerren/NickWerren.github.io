@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>science article on Quantized Crow</title>
-    <link>http://localhost:1313/tags/science-article/</link>
+    <link>https://www.quantizedcrow.com/tags/science-article/</link>
     <description>Recent content in science article on Quantized Crow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/science-article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.quantizedcrow.com/tags/science-article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scattered Colours of the Sky</title>
-      <link>http://localhost:1313/posts/oct17/scattered_colours/</link>
+      <link>https://www.quantizedcrow.com/posts/oct17/scattered_colours/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/oct17/scattered_colours/</guid>
+      <guid>https://www.quantizedcrow.com/posts/oct17/scattered_colours/</guid>
       <description>As I’m sure you’re aware the sky is blue, clouds are white, and sunsets are red.
 Why does this happen?
 The Earth’s atmosphere is 78% Nitrogen, 21% Oxygen, a pinch of Argon and then a sprinkling of various other gases. So, our atmosphere is mostly Nitrogen and Oxygen, and the atoms of these gases generally like to wander around in twos. This is what we call a molecule, and both molecules are joined by a chemical bond that is about 300 picometres long (tiny!</description>
@@ -21,10 +21,10 @@ The Earth’s atmosphere is 78% Nitrogen, 21% Oxygen, a pinch of Argon and then 
     
     <item>
       <title>If It Looks Like A Duck</title>
-      <link>http://localhost:1313/posts/jan17/like_a_duck/</link>
+      <link>https://www.quantizedcrow.com/posts/jan17/like_a_duck/</link>
       <pubDate>Sun, 29 Jan 2017 22:01:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/jan17/like_a_duck/</guid>
+      <guid>https://www.quantizedcrow.com/posts/jan17/like_a_duck/</guid>
       <description>As science continues to bound through the 21st century, its frontiers stretch ever further towards distant conceptual horizons. The borders dividing the nations of science become increasingly distorted in the lands that inhabit these distinctly foreign frontiers. One region that inspires deep trepidation in the researchers who explore this realm, and endless suspicion from their colleagues, is where quantum mechanics crashes into systems biology to create quantum biology. Research into this tectonic collision of physics and biology began relatively recently, and is raising eyebrows across both fields.</description>
     </item>
     
