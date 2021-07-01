@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on Quantized Crow</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>https://quantizedcrow.com/tags/music/</link>
     <description>Recent content in music on Quantized Crow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://quantizedcrow.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Town Road: Yee Haw Utopia</title>
-      <link>http://localhost:1313/posts/jun20/old_town_road/</link>
+      <link>https://quantizedcrow.com/posts/jun20/old_town_road/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/jun20/old_town_road/</guid>
+      <guid>https://quantizedcrow.com/posts/jun20/old_town_road/</guid>
       <description>&lt;p&gt;A little while ago, I was having a discussion with my friends in which we attempted to identify the landmark moments in music that defined the last decade. One thing we all agreed upon was that &lt;em&gt;Old Town Road&lt;/em&gt; by &lt;strong&gt;Lil Nas X&lt;/strong&gt; was a cultural touchstone that careered though the musical landscape. This led me to return to the song.&lt;/p&gt;</description>
     </item>
     
