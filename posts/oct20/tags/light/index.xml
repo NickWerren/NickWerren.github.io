@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>light on Quantized Crow</title>
-    <link>https://quantizedcrow.com/posts/oct20/tags/light/</link>
+    <link>http://localhost:1313/posts/oct20/tags/light/</link>
     <description>Recent content in light on Quantized Crow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://quantizedcrow.com/posts/oct20/tags/light/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/oct20/tags/light/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
